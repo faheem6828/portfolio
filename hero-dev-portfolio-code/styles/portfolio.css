@@ -145,7 +145,7 @@ nav .menu a {
 }
 
 #about .about-container .about-info {
-  display: flex;
+  /* display: flex; */
   justify-content: space-between;
   gap: 50px;
 }
